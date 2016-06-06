@@ -1,0 +1,4 @@
+This is a robot project:
+Every single file described a different way to predict the behavior of the robot, 
+and make moves or publish messages accordingly. This project can only be run under
+ROS environment, which is supported by Ubuntu system. 
